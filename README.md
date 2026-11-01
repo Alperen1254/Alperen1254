@@ -8,3 +8,5 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Alperen1254](https://github.com/Alperen1254)
 
 - 📫 How to reach me **alperendandin@yandex.com**
+
+https://www.skills.google/public_profiles/e8c6013e-5f97-4842-8054-1810e6217a0b/badges/29313125
