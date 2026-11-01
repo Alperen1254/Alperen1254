@@ -16,7 +16,7 @@
   <a href="https://www.skills.google/public_profiles/e8c6013e-5f97-4842-8054-1810e6217a0b/badges/29313125">
     <img src="./googlegenerativeai.png"
          alt="Google Cloud Generative AI Badge"
-         width="50"/>
+         width="150"/>
   </a>
 </p>
 
