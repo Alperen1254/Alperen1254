@@ -12,11 +12,12 @@
 
 ## 🏆 Certifications & Badges
 
-### Google Cloud – Introduction to Generative AI
-
-[![Google Generative AI Badge](./googlegenerativeai.png)](https://www.skills.google/public_profiles/e8c6013e-5f97-4842-8054-1810e6217a0b/badges/29313125)
-
-**Issued by:** Google Cloud  
-**Credential:** Introduction to Generative AI
+<p align="center">
+  <a href="https://www.skills.google/public_profiles/e8c6013e-5f97-4842-8054-1810e6217a0b/badges/29313125">
+    <img src="./googlegenerativeai.png"
+         alt="Google Cloud Generative AI Badge"
+         width="10"/>
+  </a>
+</p>
 
 
