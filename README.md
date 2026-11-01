@@ -14,7 +14,7 @@
 
 ### Google Cloud – Introduction to Generative AI
 
-[![Google Generative AI Badge](./google-ai-badge.png)](https://www.skills.google/public_profiles/e8c6013e-5f97-4842-8054-1810e6217a0b/badges/29313125)
+[![Google Generative AI Badge](./googlegenerativeai.png)](https://www.skills.google/public_profiles/e8c6013e-5f97-4842-8054-1810e6217a0b/badges/29313125)
 
 **Issued by:** Google Cloud  
 **Credential:** Introduction to Generative AI
