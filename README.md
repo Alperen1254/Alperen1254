@@ -12,6 +12,6 @@
 
 ## 🏆 Certifications & Badges
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7752cba8-7f1b-4494-b17a-152a684857c7" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+https://www.credly.com/badges/7752cba8-7f1b-4494-b17a-152a684857c7/public_url
 
 
