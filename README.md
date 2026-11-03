@@ -12,12 +12,6 @@
 
 ## 🏆 Certifications & Badges
 
-<p align="center">
-  <a href="https://www.skills.google/public_profiles/e8c6013e-5f97-4842-8054-1810e6217a0b/badges/29313125">
-    <img src="./googlegenerativeai.png"
-         alt="Google Cloud Generative AI Badge"
-         width="150"/>
-  </a>
-</p>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7752cba8-7f1b-4494-b17a-152a684857c7" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 
